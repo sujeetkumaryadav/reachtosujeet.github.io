@@ -1,0 +1,13 @@
+img{
+  width:30%;
+  height: 450px;
+  float: left;
+  margin: 1.66%;
+}
+p{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 800;
+  border-bottom: 2px solid red;
+  padding-bottom: 20px;
+}
